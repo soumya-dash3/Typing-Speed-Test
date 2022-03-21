@@ -1,3 +1,3 @@
 # Typing-Speed-Test
 
-https://typing-game-js-project.netlify.app/
+https://typing-speed-test-js-project.netlify.app/
